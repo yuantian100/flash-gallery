@@ -1,0 +1,38 @@
+p {
+	font-family: "Trebuchet MS", Tahoma, Verdana;
+	font-size: 12px;
+	color: #000000;
+}
+
+a {
+	color: #009900;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #000000;
+}
+
+.subtitle {
+	font-family: "Trebuchet MS", Tahoma, Verdana;
+	font-size: 18px;
+	color: #CC0000;
+}
+
+.highlight {
+	color: #CC0066;
+	font-weight: bold;
+}
+
+.note {
+	font-family: "Trebuchet MS", Tahoma, Verdana;
+	font-size: 11px;
+	color: #666666;
+}

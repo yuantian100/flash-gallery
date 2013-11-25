@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+	<photo>
+		<filename>animals_400x260_01.jpg</filename>
+		<title>Baomoney</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com" target="_parent">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit. Quisque at ante sit amet erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor.</p><p><span class="highlight">This text is dynamically loaded from the external XML file. This textfield supports HTML and CSS.</span></p>]]></description>
+	</photo>
+	<photo>
+		<filename>animals_400x260_02.jpg</filename>
+		<title>Shiny embroidery</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/donate" target="_blank">Fusce quis diam sit</a> amet tortor luctus pellentesque. Donec accumsan urna non elit tristique mattis. <b>Vivamus fermentum</b> orci viverra nisl. In nec magna id ipsum aliquam dictum.</p><br /><p class="note">Donec euismod enim et risus. Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim.</p>]]></description>
+	</photo>
+	<photo>
+		<filename>animals_400x260_03.jpg</filename>
+		<title>Ecolink</title>
+		<description><![CDATA[<p>In velit urna, <u>convallis id</u>, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. Donec dapibus viverra est. <a href="http://www.koflash.com" target="_blank">Flash Web Gallery</a></p>]]></description>
+	</photo>
+	<photo>
+		<filename>animals_400x260_04.jpg</filename>
+		<title>Oggetti</title>
+		<description><![CDATA[<p><a href="http://www.flashmo.com/store" target="_blank">Mauris vestibulum felis</a> eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue. Vestibulum auctor odio eget ante.</p><p>Nunc commodo, magna pharetra semper vehicula, dui ligula feugiat elit, et euismod nunc orci ut libero. Etiam sodales massa vel metus. <span class="note">Mauris et elit quis mauris aliquet luctus.</span></p>]]></description>
+	</photo>
+	<photo>
+		<filename>animals_400x260_05.jpg</filename>
+		<title>Legendz</title>
+		<description><![CDATA[<p>Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. <a href="http://www.flashmo.com" target="_parent">Aenean eleifend</a>, neque hendrerit elementum sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus.</p>]]></description>
+	</photo>
+	<photo>
+		<filename>animals_400x260_06.jpg</filename>
+		<title>Sicaty</title>
+		<description><![CDATA[<p>In velit urna, convallis id, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. <a href="http://www.flashmo.com" target="_parent">Donec dapibus</a> viverra est.</p>]]></description>
+	</photo>
+	<photo>
+		<filename>animals_400x260_07.jpg</filename>
+		<title>Resume</title>
+		<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com" target="_parent">Integer vel sapien quis</a> risus egestas suscipit.</p><p>Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. Maecenas sodales pede eu massa. Fusce lacinia orci at nisi. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+	<photo>
+		<filename>animals_400x260_08.jpg</filename>
+		<title>Advance Collection</title>
+		<description><![CDATA[<p><span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com" target="_blank">Integer vel sapien quis</a> risus egestas suscipit. Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+	<photo>
+		<filename>animals_400x260_09.jpg</filename>
+		<title>Lahmo</title>
+		<description><![CDATA[<p><a href="http://www.koflash.com" target="_blank">Flash Web Gallery</a></p><p>Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. Aenean eleifend, neque <span class="highlight">hendrerit elementum</span> sodales, odio erat sagittis quam, sed tempor orci magna vitae tellus.</p>]]></description>
+	</photo>
+</photos>
